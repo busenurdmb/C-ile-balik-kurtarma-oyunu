@@ -1,0 +1,12 @@
+C:\Users\BUSE NUR\source\repos\proje7\proje7\bin\Debug\proje7.exe.config
+C:\Users\BUSE NUR\source\repos\proje7\proje7\bin\Debug\proje7.exe
+C:\Users\BUSE NUR\source\repos\proje7\proje7\bin\Debug\proje7.pdb
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.Form1.resources
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.exe
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.pdb
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.frmde.resources
+C:\Users\BUSE NUR\source\repos\proje7\proje7\obj\Debug\proje7.frmgiris.resources
